@@ -1,0 +1,46 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-color{
+    background-color: #fdfafa;
+}
+.more-product{
+    background-color: rgb(251, 247, 247);
+    height: 500px;
+
+}
+.bg-color h1{
+    color:#f7a40b;
+}
+ h3{
+    color: #f7a40b;
+}
+ h4,h2 {
+    color: #363958;
+}
+.border-background,.icon-border{
+    border-radius: 25px;
+    
+}
+nav img{
+    width: 250px;
+}
+
+.more-product img{
+    height: 300px;
+    width: 300px;
+}
+
+.product-img{
+    height: 300px;
+    width: 100%;
+    border-radius: 20px;
+ 
+}
+.icon-border img{
+    height: 80px;
+    width: 80px;
+}
